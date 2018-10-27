@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleModule-n</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="countries">
+        <item>TIP Cubao Quezon City</item>
+        <item>TIP Manila</item>
+        <item>Test</item>
+    </string-array>
+</resources>
